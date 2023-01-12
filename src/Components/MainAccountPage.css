@@ -1,0 +1,36 @@
+
+.mainAccountPage__container> h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    font-family: 'Fredoka One', cursive; 
+}
+
+.mainAccountPage__container >h2{
+    margin-bottom: 30px;
+    text-align: center;
+    color: #111;
+}
+
+.mainAccount__content{
+    max-width: 800px;
+    background-color: rgb(194, 109, 109);
+    padding: 40px 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+
+.mainAccount__content > button{
+    color: white;
+    padding: 80px 80px;
+    margin-left: 10px;
+       
+}

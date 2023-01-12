@@ -1,0 +1,48 @@
+
+.balance__container> h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    font-family: 'Fredoka One', cursive;
+    
+}
+
+
+.balance__content{
+    max-width: 400px;
+    background-color: rgb(194, 109, 109);
+    padding: 40px 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.balance__content > h2{
+    font-size: 20px;
+    color: #fff;
+}
+
+.balance__content > input{
+    width: auto;
+    padding: 10px 10px;
+    border: none;
+    outline-width: 0;
+    border-radius: 20px;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+
+.balance__button{
+    color: #fff;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 20px;
+}
